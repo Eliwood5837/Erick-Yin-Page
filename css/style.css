@@ -1,0 +1,31 @@
+
+.box{
+
+  text-align: center;
+}
+.grey-box{
+  background-color: red;
+
+}
+.title{
+  text-align:center;
+  font-size:50px;
+}
+body{
+  margin-top: 60px;
+}
+.img-size{
+  height: 50px;
+}
+.textsize{
+  font-size:80%;
+}
+.margins{
+  margin-left:30px;
+  margin-right:30px;
+}
+.jumbotron{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
